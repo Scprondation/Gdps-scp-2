@@ -1,0 +1,17 @@
+{
+  "Project1":{
+    "Description":"NexorCase - это не просто кейс-симулятор, это целый мир, где вы сможете проявить свои навыки и творческий подход. Собирайте свою коллекцию скинов, участвуйте в ивентах и получайте Nexor Pass, чтобы стать настоящим героем в мире NexorCase. Nexor Pass - это эксклюзивный пропуск, который дает вам доступ к особым возможностям и преимуществам в игре. С Nexor Pass вы сможете получить редкие скины, уникальные предметы и другие бонусы, которые помогут вам стать сильнее и успешнее в игре.",
+    "Screenshot":["https://i.imgur.com/ycoJ986.jpeg","https://i.imgur.com/N3RkAuY.jpeg","https://i.imgur.com/7wLUYPh.jpeg","https://i.imgur.com/m2wjnxf.jpeg","https://i.imgur.com/ntXlh0y.jpeg","https://i.imgur.com/wBehyHB.jpeg"],
+    "Author":"NKEUO",
+    "Age":"16+",
+    "Link":"https://apps.rustore.ru/app/com.vegpix.nexorcase",
+    "ID":"Project1",
+    "Cloud Saving":"Отсутствует",
+    "Name":"NexorCase: Soul Stealer",
+    "Category":"Симулятор",
+    "Button":"Скачать",
+    "Version":"2.2.2",
+    "Avatar":"https://i.imgur.com/ODP1E1X.png",
+    "Size":"27.7mb"
+  }
+}
